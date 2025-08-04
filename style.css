@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.padding15{
+     padding: 15px;
+}
+.fontsize16{
+    font-size: 16px;
+}
+header {
+    background-color: #333; 
+}
+.fontfamily{
+ font-family: ;
+}
+
+header h1 {
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    font-family: Arial, sans-serif;
+}
+
+section {
+    margin: 20px;
+}
+
+section h2 {
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+section div {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+section div h3 {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+section div p {
+    font-family: Arial, sans-serif;
+    color: #555;
+}
+
+section div button {
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+aside {
+    margin: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+aside h2 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside ul li {
+    font-family: Arial, sans-serif;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    font-family: Arial, sans-serif;
+}
